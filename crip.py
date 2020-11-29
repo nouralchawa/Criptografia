@@ -22,5 +22,5 @@ def criptografia(texto, n):
     return nuevo_texto
 
 
-print (criptografia('Hola, me llamo Nour y tengo 39 años', 3))
+print (criptografia('Hola, me llamo Nour y tengo 32 años', 3))
 print (criptografia('Krñd, oh ññdor Prxu b whpjr 62 dqrv', -3))
